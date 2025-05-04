@@ -1,9 +1,14 @@
 # AI-BASED-RECOMMENDATION-SYSTEM
 COMPANY: CODTECH IT SOLUTIONS PVT. LTD.
+
 NAME: MANSI POKHRIYAL
+
 INTERN ID: CT08DA549
+
 DOMAIN: JAVA PROGRAMMING
+
 DURATION: 8 WEEKS
+
 MENTOR: NEELA SANTOSH
 
 PROJECT TITLE: AI-Based Product Recommendation System
@@ -100,3 +105,4 @@ This project provided a solid understanding of how collaborative filtering can b
 
 
 #output:-
+![Image](https://github.com/user-attachments/assets/afa66417-57c2-49f7-9f34-237a5b721b60)
